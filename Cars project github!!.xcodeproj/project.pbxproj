@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		840B4F232828B4DA002EE626 /* createASet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840B4F222828B4DA002EE626 /* createASet.swift */; };
 		84F646C62826CDA800D0585D /* Cars_project_github__App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F646C52826CDA800D0585D /* Cars_project_github__App.swift */; };
 		84F646C82826CDA800D0585D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F646C72826CDA800D0585D /* ContentView.swift */; };
 		84F646CA2826CDAA00D0585D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84F646C92826CDAA00D0585D /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		840B4F222828B4DA002EE626 /* createASet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = createASet.swift; sourceTree = "<group>"; };
 		84F646C22826CDA800D0585D /* Cars project github!!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Cars project github!!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		84F646C52826CDA800D0585D /* Cars_project_github__App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cars_project_github__App.swift; sourceTree = "<group>"; };
 		84F646C72826CDA800D0585D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				84F646C52826CDA800D0585D /* Cars_project_github__App.swift */,
 				84F646C72826CDA800D0585D /* ContentView.swift */,
+				840B4F222828B4DA002EE626 /* createASet.swift */,
 				84F646C92826CDAA00D0585D /* Assets.xcassets */,
 				84F646CB2826CDAA00D0585D /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				840B4F232828B4DA002EE626 /* createASet.swift in Sources */,
 				84F646C82826CDA800D0585D /* ContentView.swift in Sources */,
 				84F646C62826CDA800D0585D /* Cars_project_github__App.swift in Sources */,
 			);

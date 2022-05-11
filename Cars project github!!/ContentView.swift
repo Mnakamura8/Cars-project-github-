@@ -41,7 +41,13 @@ enum Drive: String {
     case fourByFour = "4X4"
 }
 
+enum PreSet: String {
+    case family = "Family Oriented"
+    case sporty
+    case casual
+    case economic
 
+}
 struct ContentView: View {
     var body: some View {
         Text("My teammate is really well organized!")
